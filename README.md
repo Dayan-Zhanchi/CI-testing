@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<img src="https://github.com/Dayan-Zhanchi/CI-testing/assets/CI.png" width="250"/>
+<img src="https://github.com/Dayan-Zhanchi/CI-testing/blob/master/assets/CI.png" width="250"/>
 </p>
 
 <p>
