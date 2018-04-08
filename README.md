@@ -5,7 +5,7 @@
 
 <p>
 <a href="">
-<img alt="first release" src="https://travis-ci.org/Dayan-Zhanchi/CI-testing.svg?branch=master" width="250"/>
+<img alt="first release" src="https://travis-ci.org/Dayan-Zhanchi/CI-testing.svg?branch=master" width="100"/>
 </a>
 </p>
 
